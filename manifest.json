@@ -1,0 +1,16 @@
+{
+    "name" : "satary PWA PC App",
+    "short_name" : "satary PWA PC App",
+    "start_url" : "./index.html",
+    "scope" : "./",
+    "display" : "standalone",
+    "background_color" : "#ffffff",
+    "them_color" : "#000000",
+    "icons" : [
+        {
+            "src" : "icon.png",
+            "sizes" : "190x190",
+            "type" : "image/png"
+        }
+    ] 
+}
